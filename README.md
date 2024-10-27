@@ -1,4 +1,4 @@
-# 🌦️ Weather Forecasting Using IoT and ThingSpeak
+# 🌦️ Weather-Forecasting Using IoT and ThingSpeak
 Weather forecasting using IoT sensors and ThingSpeak involves collecting weather-related data from various sensors deployed in different locations and analyzing this data to predict future weather conditions. ThingSpeak is an IoT platform that allows you to collect, store, analyze, and visualize data from IoT sensors.
 
 ## 🌟 Overview
